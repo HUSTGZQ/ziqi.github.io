@@ -1,3 +1,6 @@
+<div align="center"><img src="https://github.com/ziqikao/ziqikao.github.io/blob/gh-pages/9.jpg"/></div>
+
+
 ## About
 
 I am currently a Ph.D.student in the department of CSE, the Hong Kong University of Science and technology. I am supervised by Prof. Jia Li. Before that,I received my Master's degree in Electronic and Information Engineering from Tsinghua University in 2021, and Bachelor's degree in Electric Engineering from Huazhong University of Science and Technologyh in 2018. My Chinese name is 高子琪.
