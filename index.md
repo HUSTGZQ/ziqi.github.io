@@ -1,8 +1,10 @@
 ## About
 
-You can use the [editor on GitHub](https://github.com/HUSTGZQ/ziqi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a Ph.D.student in the department of CSE, the Hong Kong University of Science and technology. I am supervised by Prof. Jia Li. Before that,I received my Master's degree in Electronic and Information Engineering from Tsinghua University in 2021, and Bachelor's degree in Electric Engineering from Huazhong University of Science and Technologyh in 2018. My Chinese name is 高子琪.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At the same time, I am an intern at Tencent AI Lab with the supervision of senior researcher Lanqing Li.
+
+My research interests lie in Graph Learning and Data Mining. Specifically on tasks related to Signal Reconstruction and Bioinformatics Prediction.
 
 ### News
 
