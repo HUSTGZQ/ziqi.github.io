@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/ziqikao/ziqikao.github.io/blob/gh-pages/9.jpg"/></div>
+<div align="center"><img width="200" height="auto" src="https://github.com/ziqikao/ziqikao.github.io/blob/gh-pages/9.jpg"/></div>
 
 
 ## About
